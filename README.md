@@ -1,39 +1,52 @@
-# Hi, I'm Muhammad Maaz Khan 👋
+# Muhammad Maaz Khan
+### **Senior Backend Architect & Intelligent Systems Engineer**
 
-### **Backend Systems Engineer & AI Developer**
-
-Software Engineer specializing in building scalable backend architectures, high-performance RESTful APIs, and AI/ML integrations. Expert in the **Java & Spring Boot** ecosystem with strong focus on relational database design, data flow integrity, and secure enterprise systems.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazkhan872)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkhank872@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ---
 
-## 🛠 Technical Expertise
+## Executive Summary
 
-| Category | Technologies & Frameworks |
+Architecting resilient, event-driven microservices and high-throughput backend infrastructure. Specialized in the **Java/Spring Boot ecosystem**, relational persistence optimization, and bridging deterministic backend logic with asynchronous **AI/ML pipelines**. 
+
+Focused on enterprise-level system reliability, low-latency API design, transaction isolation, and enforcing modular software boundaries via SOLID design principles.
+
+---
+
+## Technical Domain & Core Competencies
+
+| Layer / Domain | Infrastructure & Engineering Capabilities |
 | :--- | :--- |
-| **Languages** | Java (Core & Enterprise), Python, C, SQL |
-| **Backend & Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, Flask, JavaFX |
-| **Databases** | MySQL, PostgreSQL, Relational DB Normalization & Schema Design |
-| **AI / Machine Learning** | Computer Vision, Gemini API Integration, Python ML Pipelines |
-| **Developer Tools** | Git, GitHub, Postman, Maven, RESTful APIs |
+| **Backend Core** | Java (17+), Spring Framework (Core, Boot, Security, Data JPA), Python, REST Architecture |
+| **Data Architecture** | Relational Database Modeling, Schema Normalization, Query Tuning, Indexing, Hibernate ORM |
+| **Security & Auth** | OAuth2, JWT Authentication, Role-Based Access Control (RBAC), Endpoint Hardening |
+| **Intelligent Layer** | Computer Vision Pipelines, Gemini LLM API Orchestration, Machine Learning Integration |
+| **DevOps & Tooling** | Git VCS, Maven Build Management, Postman API Testing, CI/CD Workflows |
 
 ---
 
-## 🚀 Key Projects & Architecture
+## Featured Systems & Engineering Artifacts
 
-### 🏋️ **GymGenius Database & Backend**
-* Designed and optimized a normalized relational database schema in MySQL for gym management enterprise applications.
-* Implemented complex SQL queries and data constraints to handle multi-user subscription models.
+### ⚡ [createAttendanceReportTemplate](https://github.com/maazkhan872/createAttendanceReportTemplate)
+> **Automated Data Analytics & Reporting Module**
+- Engineered an automated template compilation engine designed to ingest unstructured time-series attendance records and emit structured enterprise reports.
+- Enforced clean domain-driven separation between data extraction, transformation rules, and rendering layers.
 
-### 🛒 **E-Commerce Backend & AR Integration**
-* Engineered a robust backend system managing catalog, inventory, and order processing workflow.
-* Integrated AI components using Flask and Gemini API alongside Spring Boot core services.
+### 🏋️ **GymGenius Enterprise Schema**
+> **Relational Data Persistence Architecture**
+- Modeled and deployed a multi-tenant relational schema optimized for ACID-compliant subscription workflows and high-frequency queries.
+- Applied rigorous functional dependency checks and normalization to mitigate data redundancy and query performance bottlenecks.
 
-### 🏏 **Cricket Analytics System**
-* Developed a relational data persistence layer to store and query real-time player and tournament metrics.
+### 🤖 **Multi-Service AR E-Commerce Backend**
+> **Hybrid Backend & AI Integration Platform**
+- Architected a distributed dual-stack backend orchestrating Spring Boot micro-components alongside Flask-based AI image processing nodes.
+- Integrated Gemini API services to deliver contextual visual search capabilities with low end-to-end network overhead.
 
 ---
 
-## 📊 GitHub Insights & Metrics
+## System Metrics & Code Contributions
 
 <div align="center">
 
@@ -44,16 +57,9 @@ Software Engineer specializing in building scalable backend architectures, high-
 
 ---
 
-## 📬 Connect With Me
+## Professional Engagements & Collaborations
 
-<p align="left">
-  <a href="https://github.com/maazkhan872" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:maazkhank872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+Open to technical consulting, distributed system architecture discussions, and senior backend engineering roles.
+
+- 📧 **Direct Communication:** `maazkhank872@gmail.com`
+- 🌐 **Repository Index:** [github.com/maazkhan872](https://github.com/maazkhan872)
