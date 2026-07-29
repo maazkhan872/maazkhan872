@@ -29,11 +29,6 @@ Focused on enterprise-level system reliability, low-latency API design, transact
 
 ## Featured Systems & Engineering Artifacts
 
-### ⚡ [createAttendanceReportTemplate](https://github.com/maazkhan872/createAttendanceReportTemplate)
-> **Automated Data Analytics & Reporting Module**
-- Engineered an automated template compilation engine designed to ingest unstructured time-series attendance records and emit structured enterprise reports.
-- Enforced clean domain-driven separation between data extraction, transformation rules, and rendering layers.
-
 ### 🏋️ **GymGenius Enterprise Schema**
 > **Relational Data Persistence Architecture**
 - Modeled and deployed a multi-tenant relational schema optimized for ACID-compliant subscription workflows and high-frequency queries.
