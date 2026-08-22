@@ -1,5 +1,7 @@
 # Muhammad Maaz Khan
-### **Senior Backend Architect & Intelligent Systems Engineer**
+### ** Backend Developer | Java & Spring Boot | AI/ML Enthusiast | Machine Learning . Data Science**
+
+I build backend systems using Java and Spring Boot, with a growing focus on integrating AI/ML into real-world applications. Currently working on enterprise-grade systems for banking and fintech clients.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazkhan872)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkhank872@gmail.com)
@@ -51,6 +53,19 @@ Focused on enterprise-level system reliability, low-latency API design, transact
 </div>
 
 ---
+
+## 🛠️ Tech Stack
+
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, Servlets  
+**Database:** PostgreSQL, MySQL, Redis  
+**AI/ML:** Python, Machine Learning, Computer Vision, OpenCV, Streamlit  
+**Tools:** Git, Postman, Maven, IntelliJ IDEA
+
+## 📊 GitHub Stats
+
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maazkhan872&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maazkhan872&layout=compact&theme=tokyonight)
+
 
 ## Professional Engagements & Collaborations
 
